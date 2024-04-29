@@ -1,5 +1,10 @@
 build/
 
+.cache/
+.metals/
+.vscode/
+.nvim/
+
 # mill
 out/
 .bsp/
