@@ -6,7 +6,7 @@ Difftest with DRAMsim3
 ```bash
 source env.sh # setup the environment
 make dramsim # build dramsim3
-cd expamples
+cd expamples/dummy
 make examples_run # build and run the examples
 
 ```
@@ -16,3 +16,5 @@ make examples_run # build and run the examples
 [DRAMsim3](https://github.com/OpenXiangShan/DRAMsim3)
 
 [arch-simulator-sig's chisel-env](https://github.com/arch-simulator-sig/chisel-env)
+
+[ysyxSoC](https://github.com/OSCPU/ysyxSoC)
