@@ -13,7 +13,7 @@
 EXAMPLE_DIR ?= $(shell pwd)/examples
 BUILD_DIR := $(shell pwd)/build
 
-include ../Makefile
+include ../../Makefile
 
 CXX_FILES += $(shell find $(shell pwd)/src/test -name "*.cpp")
 
